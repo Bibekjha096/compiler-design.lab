@@ -1,0 +1,14 @@
+Lab 4: Arithmetic Expression Evaluator Using Flex and Bison
+Experiment Title
+Arithmetic Expression Evaluator using Flex and Bison
+AIM 
+The objective of this project is to develop an arithmetic expression evaluator using Flex and Bison. The program can parse and evaluate mathematical expressions containing addition, subtraction, multiplication, division, and parentheses while following standard operator precedence and associativity rules. It also provides error handling for invalid expressions.
+Theory
+{
+
+
+Flex and Bison are widely used tools in compiler design for lexical analysis and syntax analysis. Flex is responsible for scanning the input and converting it into tokens such as numbers and operators. Bison uses grammar rules to parse these tokens and determine whether the expression follows the defined syntax.
+
+In this project, arithmetic expressions are evaluated during the parsing process. The grammar defines the structure of valid expressions and enforces operator precedence and associativity, ensuring correct computation of results. The combination of Flex and Bison demonstrates the fundamental concepts of language processing, parsing, and expression evaluation used in compiler construction.
+
+}
